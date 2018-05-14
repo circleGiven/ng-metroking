@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/css/components.css";
+@import "assets/css/core.css";
+@import "assets/css/icons.css";
+@import "assets/css/menu.css";
+@import "assets/css/menu_dark.css";
+@import "assets/css/pages.css";
+@import "assets/css/responsive.css";
+@import "assets/css/variables.css";
+@import "assets/css/bootstrap.min.css";
